@@ -328,3 +328,8 @@ main a.btn[href^="tel:"]:before{content:"\260E\00a0"}
 
 .hm-trust strong{display:block;font-family:'Sora',sans-serif;font-size:15px;color:var(--saph-d);margin-bottom:4px}
 .hm-pricenote{font-size:13.5px;color:var(--gray);margin-top:12px}
+
+.footer-social{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin-top:14px;font-size:14px}
+.footer-social span{font-weight:700;color:var(--saph-d);width:100%}
+.footer-social a{color:var(--saph);text-decoration:underline}
+.footer-social a:hover{color:var(--bronze-d)}
