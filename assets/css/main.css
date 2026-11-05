@@ -333,3 +333,4 @@ main a.btn[href^="tel:"]:before{content:"\260E\00a0"}
 .footer-social span{font-weight:700;color:var(--saph-d);width:100%}
 .footer-social a{color:var(--saph);text-decoration:underline}
 .footer-social a:hover{color:var(--bronze-d)}
+.hm-nbhd{margin:14px 0 0;text-align:center}
